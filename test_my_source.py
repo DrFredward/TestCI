@@ -12,4 +12,4 @@ def test_add_fail():
 
 
 def test_add_two():
-    assert add_func(4,4) == 7
+    assert add_func(4,4) == 8
